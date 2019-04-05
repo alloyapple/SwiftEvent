@@ -1,2 +1,3 @@
 # SwiftEvent
-Swift for libevent
+
+A description of this package.
